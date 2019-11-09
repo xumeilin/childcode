@@ -9,7 +9,7 @@ Page({
     indicatorDots: true,
     indicatorcolor: "rgba(119, 119, 119, 1)",
     indicatoractivecolor: "#0f7cb7",
-    autoplay: false,
+    autoplay: true,
     interval: 5000,
     duration: 1000,
     imgheights: [],

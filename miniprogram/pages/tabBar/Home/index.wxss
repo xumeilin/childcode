@@ -1,1 +1,11 @@
 @import "../../../common/index.wxss";
+
+.flex-wrp{
+  margin-top: 1rpx;
+  display:flex;
+}
+.flex-item{
+  width: 300rpx;
+  height: 200rpx;
+  font-size: 26rpx;
+}

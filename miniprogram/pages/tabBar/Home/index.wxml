@@ -8,9 +8,19 @@
     </block>
   </swiper>
 
-  <view class="index-hd">
-    
-    <view class="index-desc">以下将展示小程序官方组件能力，组件样式仅供参考，开发者可根据自身需求自定义组件样式，具体属性参数详见小程序开发文档。</view>
+  <view class="page-body">
+    <view class="page-section">
+      <view class="page-section-title" style="text-align:center">
+        <text><h4>横向布局</h4></text>
+      </view>
+      <view class="page-section-spacing">
+        <view class="flex-wrp" style="flex-direction:row;">
+          <view class="flex-item demo-text-1"></view>
+          <view class="flex-item demo-text-2"></view>
+          <view class="flex-item demo-text-3"></view>
+        </view>
+      </view>
+    </view>
   </view>
-  
+
 </view>
